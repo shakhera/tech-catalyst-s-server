@@ -1,9 +1,12 @@
 const express = require("express");
+var cors = require("cors");
 const app = express();
 const port = process.env.PORT || 3000;
 
 const category = require("./data/courseCategory.json");
 const course = require("./data/courses.json");
+
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("tech catalyst s is.......");
