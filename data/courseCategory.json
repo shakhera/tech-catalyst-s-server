@@ -1,0 +1,17 @@
+[
+  { "id": 101, "name": "Introduction to Computer Science" },
+  { "id": 102, "name": "Data Structures and Algorithms" },
+  { "id": 103, "name": "Web Development" },
+  { "id": 104, "name": "Machine Learning" },
+  { "id": 105, "name": "Database Management Systems" },
+  { "id": 106, "name": "Software Engineering" },
+  { "id": 107, "name": "Operating Systems" },
+  { "id": 108, "name": "Cybersecurity" },
+  { "id": 109, "name": "Mobile App Development" },
+  { "id": 110, "name": "Artificial Intelligence" },
+  { "id": 111, "name": "Network Security" },
+  { "id": 112, "name": "Computer Graphics" },
+  { "id": 113, "name": "Human-Computer Interaction" },
+  { "id": 114, "name": "Computer Networks" },
+  { "id": 115, "name": "Cloud Computing" }
+]
